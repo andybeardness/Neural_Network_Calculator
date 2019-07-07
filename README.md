@@ -66,19 +66,19 @@ Just  folder to save trained models
 
 ### Start 
 
-![start](start.png)
+![start](img/start.png)
 
 ### True answer
 
-![true](true.png)
+![true](img/true.png)
 
 ### False answer
 
-![false](false.png)
+![false](img/false.png)
 
 ### Error
 
-![error](error.png)
+![error](img/error.png)
 
 # Thanks for attention ^^
 
