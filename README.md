@@ -66,19 +66,19 @@ Just  folder to save trained models
 
 ### Start 
 
-![start](/img/start.png)
+![start](https://raw.githubusercontent.com/andybeardness/4Orn_Neural_Network_Calculator/master/imgs/start.png)
 
 ### True answer
 
-![true](/img/true.png)
+![true](https://raw.githubusercontent.com/andybeardness/4Orn_Neural_Network_Calculator/master/imgs/true.png)
 
 ### False answer
 
-![false](/img/false.png)
+![false](https://raw.githubusercontent.com/andybeardness/4Orn_Neural_Network_Calculator/master/imgs/false.png)
 
 ### Error
 
-![error](/img/error.png)
+![error](https://raw.githubusercontent.com/andybeardness/4Orn_Neural_Network_Calculator/master/imgs/error.png)
 
 # Thanks for attention ^^
 
